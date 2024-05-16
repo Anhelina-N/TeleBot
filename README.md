@@ -1,7 +1,7 @@
 # TeleBot
 A Telegram bot that sends 5 English words daily based on the person's current language skills to help users build vocabulary. 
 
-## Why I build it
+## Why I built it
 When studying English (as a non-native speaker) we are mostly taught grammar and language rules. However, to build good language skills we also need a solid vocabulary, which most of the times we have to build ourselves. Receiving relevant words daily and learning them can be a great addition to typical school lessons and/or tutoring sessions!
 
 ## Code
